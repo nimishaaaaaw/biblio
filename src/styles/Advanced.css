@@ -13,6 +13,21 @@
   color: #7AA2E3;
   font-size: 64px;
   font-weight: 900;
+/* Styling for the Advanced Search Screen */
+
+.advanced {
+  background: #F8F6E3;
+  margin: 0;
+  padding: 0;
+  font-family: 'Libre Baskerville', serif;
+  text-align: center;
+}
+
+/* Title */
+.advanced-title {
+  color: #7AA2E3;
+  font-size: 64px;
+  font-weight: 900;
 
   font-family: 'Libre Baskerville', serif;
   display: inline-block;
@@ -26,7 +41,7 @@
 /* Input bar */
 .advanced-input {
   width: 650px;
-  max-width: 100%;
+  max-width: 90%;
   height: 52px;
   margin: 20px auto;
   background: #97E7E1;
@@ -84,4 +99,12 @@
 /* Error Message inside Advanced page */
 .advanced .error-message {
   margin-top: 20px;
+  width: 70%;
+
+}
+
+@media (max-width:768px){
+  .advanced-input{
+    width: 90%
+  }
 }
