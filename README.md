@@ -1,4 +1,4 @@
-# 📚 Biblio 
+ # 📚 Biblio 
 ## Your book, found.
 #### Biblio is a simple, elegant and fun book search web app built with React + Vite.
 #### It connects to the Open Library API to let you searcf for books by title, author, genre/subject, year or identifier! ✨Bonus : You can even add books to your favorites with a 🤍 button
@@ -40,7 +40,7 @@
   <img src="images/Details.png" alt="Logo for my project" width="350">
 
 * ❤ Favourites
- ##### And Common image to deal with when no book covers fetched from API to maintain web design's consistency.
+   ##### And Common image to deal with when no book covers fetched from API to maintain web design's consistency.
 
   <img src="images/Fav.png" alt="Logo for my project" width="350">
 
