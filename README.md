@@ -46,11 +46,11 @@
 
 * 📱 Responsive Design
 
-  <img src="images/Responsive.jpg" alt="Logo for my project" width="120">
+  <img src="images/Responsive2.jpg" alt="Logo for my project" width="120">
 
   
 
-  <img src="images/Responsive2.jpg" alt="Logo for my project" width="120">
+  <img src="images/Responsive.jpg" alt="Logo for my project" width="120">
 
 
 
