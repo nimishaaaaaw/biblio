@@ -20,7 +20,8 @@
 
 ## 📸 Screenshots
 * Splash Page, with the logo of my web app
-  <img src="images/Splash.png" alt="Logo for my project" width="250">
+  
+  <img src="images/Splash.png" alt="Logo for my project" width="350">
   
   
 
