@@ -1,1 +1,1 @@
-![Logo](assets/logo.png) Biblio
+![logo](assets/logo.png) Biblio
