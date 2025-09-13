@@ -1,0 +1,52 @@
+/* Styling for the Error Alert Screen */
+
+.error-message {
+  background: #fde2e2; 
+  border: 1px solid #f5a3a3;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.error-message h3 {
+  color: #c53030;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.error-message p {
+  color: #9b2c2c;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.error-message button {
+  margin: 5px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 14px;
+}
+
+.error-message button:first-of-type {
+  background: #6AD4DD;
+  color: #fff;
+}
+
+.error-message button:first-of-type:hover {
+  background: #5cc7cf;
+}
+
+.error-message button:last-of-type {
+  background: #97E7E1;
+  color: rgba(30, 30, 30, 0.6);
+}
+
+.error-message button:last-of-type:hover {
+  background: #82d0ca;
+}
