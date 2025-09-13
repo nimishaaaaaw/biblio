@@ -1,1 +1,1 @@
-# H1 Biblio
+![Logo](assets/logo.png) Biblio
