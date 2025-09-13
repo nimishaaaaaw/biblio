@@ -40,13 +40,15 @@
   <img src="images/Details.png" alt="Logo for my project" width="350">
 
 * ❤ Favourites
-  ##### And Common image to deal with when no book covers fetched from API to maintain web design's consistency.
+ ##### And Common image to deal with when no book covers fetched from API to maintain web design's consistency.
 
   <img src="images/Fav.png" alt="Logo for my project" width="350">
 
 * 📱 Responsive Design
 
   <img src="images/Responsive.jpg" alt="Logo for my project" width="120">
+
+  
 
   <img src="images/Responsive2.jpg" alt="Logo for my project" width="120">
 
